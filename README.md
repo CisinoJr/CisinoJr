@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Tech Lead | Senior Developer at @EY
 - 🔭 Working on my projects personal ideas
-- 🌱 Studying IOS (Swift, SwiftUI), Software Archtecture, Kotlin, Java, Spring Boot...
+- 🌱 Studying IOS (Swift, SwiftUI), Software Architecture, Kotlin, Java, Spring Boot...
 
 <div align="center">
   <a href="https://github.com/CisinoJr">
